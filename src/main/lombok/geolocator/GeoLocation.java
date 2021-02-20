@@ -17,6 +17,6 @@ public class GeoLocation {
     private String timezone;
     private String zip;
 
-    
-    
+
+
 }
